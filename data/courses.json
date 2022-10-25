@@ -1,0 +1,50 @@
+[
+    {
+        "id": "0282e0e58a5c4045684",
+        "title": "Introduction to HTML5",
+        "image": "https://pathowe.co.uk/wp-content/uploads/2017/02/HTML5.png",
+        "details": "Thanks to a growing number of software programs, it seems as if anyone can make a webpage. But what if you actually want to understand how the page was created? There are great textbooks and online resources for learning web design, but most of those resources require some background knowledge. This course is designed to help the novice who wants to gain confidence and knowledge. We will explore the theory (what actually happens when you click on a link on a webpage?), the practical (what do I need to know to make my own page?), and the overlooked (I have a page, what do I do now?). Throughout the course there will be a strong emphasis on adhering to syntactic standards for validation and semantic standards to promote wide accessibility for users with disabilities.  The textbook we use is available online, 'The Missing Link: An Introduction to Web Development and Programming' by Michael Mendez from www.opensuny.org.This course will appeal to a wide variety of people, but specifically those who would like a step-by-step description of the basics. There are no prerequisites for this course and it is assumed that students have no prior programming skills or IT experience. The course will culminate in a small final project that will require the completion of a very simple page with links and images. The focus of this course is on the basics, not appearance. ",
+        "ratings": 4.7,
+        "price": "0.00"
+    },
+    {
+        "id": "0282e0e58a5c404368735",
+        "title": "Introduction to CSS3",
+        "image": "https://e1.pngegg.com/pngimages/326/868/png-clipart-css3-badge-blue-and-white-css-icon-thumbnail.png",
+        "details": "The web today is almost unrecognizable from the early days of white pages with lists of blue links.  Now, sites are designed with complex layouts, unique fonts, and customized color schemes.   This course will show you the basics of Cascading Style Sheets (CSS3). The emphasis will be on learning how to write CSS rules, how to test code, and how to establish good programming habits. When done correctly, the styling of a webpage can take enhance your page. When done incorrectly the result can be worse than no styling at all. To ensure that your sites do not put up  barriers for people with cognitive and/or physical disabilities, you will learn how to evaluate pages using the standardized POUR accessibility guidelines.    Upon completion of the course, learners will be able to sketch a design for a given HTML page.  Using that design they will use CSS to implement the design by adding fonts, colors, and  layouts. This is the second course in the Web Design For Everybody specialization. Subsequent courses focus on adding interaction with JavaScript and enhancing the styling with responsive design. It will be difficult to complete this course if you do not have access to a laptop or desktop computer for the homework.",
+        "ratings": 4.8,
+        "price": "4.99"
+    },
+    {
+        "id": "0282e0e58a5c4048673",
+        "title": "Typescript for Beginners",
+        "image": "https://miro.medium.com/max/1187/1*H0bdRYh03hNm1y0QuJIhkg.png",
+        "details": "Hello and welcome to the course! In this intermediate course on Typescript.  By the end of this course, you will have worked with all the main Typescript types, both simple and advanced. You will have written Typescript code and compiled it using the command line. You will also get experience writing classes in Typescript to understand the way Typescript implements OOP.  Finally you will restructure your files to represent a real-world setup. In this course, we are going to focus on the following learning objectives: Understand what Typescript is and why companies use it. Learn all of the basic types and use them, eg, strings, numbers arrays etc. Learn advanced types and use them, eg, enums and interfaces etc. Write classes and understand OOP principles in Typescript. Restructure our project files for real-world dev example. By the end of this course you will be comfortable to start using Typescript on real projects.",
+        "ratings": 4.5,
+        "price": "9.99"
+    },
+    {
+        "id": "0282e0e58a5c4043216",
+        "title": "Angular",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/1200px-Angular_full_color_logo.svg.png",
+        "details": "This course concentrates mainly on Javascript based front-end frameworks, and in particular the Angular framework (Currently Ver. 6.x). This course will use Typescript for developing Angular application. Typescript features will be introduced in the context of Angular as part of the exercises. You will also get an introduction to the use of Angular Material and Angular Flex-Layout for responsive UI design. You will be introduced to various aspects of Angular including components, directives and services. You will learn about data binding, Angular router and its use for developing single-page applications. You will also learn about designing both template-driven forms and reactive forms. A quick introduction to Observables, reactive programming and RxJS in the context of Angular is included. You will then learn about Angular support for client-server communication through the HTTP client and the use of REST API on the server side. A quick tour through Angular animation support and Angular testing rounds off the course. You must have either completed the previous course in the specialization on Bootstrap 4, or have a working knowledge of front end web-UI frameworks to be able to navigate this course. Also a good working knowledge of JavaScript, especially ES 5 is strongly recommended.",
+        "ratings": 4.7,
+        "price": "15.99"
+    },
+    {
+        "id": "0282e0e58a5c40441741",
+        "title": "NodeJS - The Complete Guide",
+        "image": "https://www.javatpoint.com/js/nodejs/images/node-js-tutorial.png",
+        "details": "Work with one of the most in-demand web development programming languages. Learn the basics as well as advanced concepts of NodeJS in great detail. Build modern, fast and scalable server-side web. applications with NodeJS, databases like SQL or MongoDB and more. Understand the NodeJS ecosystem and build server-side rendered apps, REST APIs and GraphQL APIs",
+        "ratings": 4.7,
+        "price": "13.99"
+    },
+    {
+        "id": "0282e0e58a5c404639335",
+        "title": "The Complete React Native",
+        "image": "https://www.datocms-assets.com/45470/1631026680-logo-react-native.png",
+        "details": "Create real-world native apps using React Native. Make truly reusable components that look great. Understand the terminology and concepts of Redux. Prototype and deploy your own applications to the Apple and Google Play Stores.",
+        "ratings": 4.5,
+        "price": "13.99"
+    }
+]
