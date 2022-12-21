@@ -18,7 +18,7 @@
     {
         "id": "0282e0e58a5c4048673",
         "title": "Typescript for Beginners",
-        "image": "https://miro.medium.com/max/1187/1*H0bdRYh03hNm1y0QuJIhkg.png",
+        "image": "https://i.ibb.co/z7wsvDx/1-H0bd-RYh03h-Nm1y0-Qu-JIhkg.png",
         "details": "Hello and welcome to the course! In this intermediate course on Typescript.  By the end of this course, you will have worked with all the main Typescript types, both simple and advanced. You will have written Typescript code and compiled it using the command line. You will also get experience writing classes in Typescript to understand the way Typescript implements OOP.  Finally you will restructure your files to represent a real-world setup. In this course, we are going to focus on the following learning objectives: Understand what Typescript is and why companies use it. Learn all of the basic types and use them, eg, strings, numbers arrays etc. Learn advanced types and use them, eg, enums and interfaces etc. Write classes and understand OOP principles in Typescript. Restructure our project files for real-world dev example. By the end of this course you will be comfortable to start using Typescript on real projects.",
         "ratings": 4.5,
         "price": "9.99"
